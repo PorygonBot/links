@@ -1,4 +1,5 @@
-# shorty
+# links.porygonbot.xyz
+## Forked from @cjdenio 's [shorty](https://github.com/cjdenio/shorty).
 
 🔗 High-performance link shortener written in Rust
 
